@@ -1,3 +1,7 @@
 这是一个测试文件--Git
 hello world hahaha
+<<<<<<< HEAD
 this is brance master --zhuweihong
+=======
+this is a branch he name is test --zhuweihong
+>>>>>>> test
